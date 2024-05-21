@@ -1,4 +1,4 @@
-# My-First-Data-Analysis-Report
+# My-First-Data-Analysis-Portfolio
 Welcome to my Data Analyst Portfolio!
 
 As a data analyst, I specialize in using tools like Excel, Excel, Power BI and SQL to gather, organize, and analyze data, helping businesses make informed decisions. 
